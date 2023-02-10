@@ -2,7 +2,7 @@
 title: L'ombre du musée
 description: >-
     Description du projet
-image: artmission.jpg
+image: ombre-du-musee.png
 video: ombre-du-musee.mp4
 
 link: https://lombredumusee.netlify.app/
