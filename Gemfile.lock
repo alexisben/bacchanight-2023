@@ -86,8 +86,10 @@ GEM
     uglifier (4.2.0)
       execjs (>= 0.3.0, < 3)
     unicode-display_width (1.8.0)
+    webrick (1.8.1)
 
 PLATFORMS
+  arm64-darwin-21
   x86_64-darwin-18
 
 DEPENDENCIES
@@ -95,6 +97,7 @@ DEPENDENCIES
   jekyll-minifier
   jekyll-sitemap
   jekyll_picture_tag
+  webrick
 
 BUNDLED WITH
    2.3.2
