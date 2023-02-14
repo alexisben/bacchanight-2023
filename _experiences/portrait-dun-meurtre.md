@@ -2,7 +2,7 @@
 title: Portrait d'un meurtre
 description: >-
     Description du projet
-image: artmission.jpg
+image: portrait.jpg
 
 link: https://cluedo-musee.vercel.app/
 mention: >-

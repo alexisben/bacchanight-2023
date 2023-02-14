@@ -2,7 +2,7 @@
 title: D-teye
 description: >-
     Description du projet
-image: artmission.jpg
+image: d-teye.png
 
 link: https://bacchanight-d-teye.vercel.app/
 mention: >-

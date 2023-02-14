@@ -2,7 +2,8 @@
 title: Ava
 description: >-
     Description du projet
-image: artmission.jpg
+image: ava.png
+video: ava.mp4
 
 link: https://ava-bacchanight.netlify.app/
 mention: >-

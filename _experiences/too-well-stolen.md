@@ -1,8 +1,8 @@
 ---
-title: To Well Stolen
+title: Too Well Stolen
 description: >-
     Description du projet
-image: artmission.jpg
+image: too-well-stolen.jpg
 
 link: https://too-well-stolen.vercel.app/
 mention: >-

@@ -2,7 +2,8 @@
 title: Çaravage
 description: >-
     Description du projet
-image: artmission.jpg
+image: caravage.png
+video: caravage.mp4
 
 link: https://caravage-bacchanight-2023.netlify.app/
 mention: >-

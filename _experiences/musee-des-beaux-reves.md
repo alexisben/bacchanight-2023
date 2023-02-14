@@ -2,8 +2,7 @@
 title: Musée des beaux rêves
 description: >-
     Description du projet
-image: artmission.jpg
-video: musee-des-beaux-reves.mp4
+
 
 link: https://musbr.netlify.app/
 mention: >-
