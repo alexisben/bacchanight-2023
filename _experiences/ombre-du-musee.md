@@ -1,7 +1,7 @@
 ---
 title: L'ombre du musée
 description: >-
-    Description du projet
+    Prenez part à cette course poursuite fantastique !
 image: ombre-du-musee.png
 video: ombre-du-musee.mp4
 

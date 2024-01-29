@@ -1,8 +1,10 @@
 ---
 title: Portrait d'un meurtre
 description: >-
-    Description du projet
+    Un meurtre a eu lieu ce matin au Musée des Beaux Arts de Bordeaux. La victime est un homme, mort par strangulation. Il y a 4 suspects identifiés : le fils, l’épouse, une amie de la famille et la mère du défunt. Nous avons besoin de toi pour déceler le coupable.
+
 image: portrait.jpg
+video: portrait.mp4
 
 link: https://cluedo-musee.vercel.app/
 mention: >-

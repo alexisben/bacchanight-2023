@@ -1,7 +1,9 @@
 ---
 title: Çaravage
 description: >-
-    Description du projet
+    Le joueur de luth est un musicien itinérant qui se balade dans toute l'Italie du XVII e siècle pour partager sa douce voix à qui voudra bien l'entendre. Il sait utiliser son luth à son avantage en toutes circonstances...
+
+    Mú par son instinct de camaraderie, il vous laissera le guider pour protéger la chandelle menacée par le nouvel ennemi du musée.
 image: caravage.png
 video: caravage.mp4
 

@@ -1,7 +1,9 @@
 ---
 title: Embrouille au musée
 description: >-
-    Description du projet
+    Mais que s’est-il passé au Musée des Beaux Arts ?!  
+    Un petit malin a mis le désordre dans les tableaux… Rejoignez le guide et aidez-le à remettre de l’ordre dans le mini jeu, “Embrouille au Musée” ! 
+
 image: embrouille-au-musee.jpg
 video: embrouille-au-musee.mp4
 

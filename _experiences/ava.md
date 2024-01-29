@@ -1,7 +1,7 @@
 ---
 title: Ava
 description: >-
-    Description du projet
+    1858. Vous voilà plongés dans l’histoire du terrible incendie du Steamer Austria. À travers divers tableaux, vous aiderez le capitaine Amadeus à sauver son navire et leurs passagers, à l’aide d'objets que seuls ces derniers ont en leur possession. Saurez-vous relever le défi ? 
 image: ava.png
 video: ava.mp4
 
